@@ -10,7 +10,7 @@ h1{
     font-family: "Josefin Sans";
     border-bottom: solid rgb(115, 115, 114) 3px;
     text-shadow: 1px 1px 1px gray;
-    letter-spacing: 1.5em;
+    letter-spacing: 1.2em;
 }
 .pink{
     color: rgb(255, 192, 203);
