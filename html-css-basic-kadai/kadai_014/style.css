@@ -18,6 +18,6 @@ h1{
 .skyblue{
     color: skyblue;
 }
-.child{
+div .child{
     font-weight: bold;
 }
